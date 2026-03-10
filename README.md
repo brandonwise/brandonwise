@@ -15,3 +15,5 @@ A quick note on public history: much of my earlier work lived in private company
 - [mcp-trust-radar](https://github.com/brandonwise/mcp-trust-radar): trust scoring for MCP servers
 - [pm-handbook](https://github.com/brandonwise/pm-handbook): practical PM templates and playbooks
 - [feed-cleaner](https://github.com/brandonwise/feed-cleaner): signal filtering for noisy social feeds
+
+If you're building something novel in AI, product, or operations, reach out. I enjoy collaborating with people who like turning ideas into working systems.
