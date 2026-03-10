@@ -1,4 +1,4 @@
-# Hi, I'm Brandon <img src="assets/atom-spin.svg" alt="Atom icon" width="28" />
+# Hi, I'm Brandon <img src="assets/atom-spin.gif" alt="Spinning atom" width="28" />
 
 I'm a Principal Product Manager and Architect with roots in technical operations and security. I work best close to systems, code, and the teams building both.
 
