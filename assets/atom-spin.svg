@@ -1,16 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Spinning atom icon">
-  <g>
-    <ellipse cx="12" cy="12" rx="9" ry="3.6" />
-    <ellipse cx="12" cy="12" rx="9" ry="3.6" transform="rotate(60 12 12)" />
-    <ellipse cx="12" cy="12" rx="9" ry="3.6" transform="rotate(120 12 12)" />
-    <circle cx="12" cy="12" r="1.4" fill="#0f172a" stroke="none" />
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 12 12"
-      to="360 12 12"
-      dur="7s"
-      repeatCount="indefinite"
-    />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#6366f1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Atom icon">
+  <ellipse cx="12" cy="12" rx="9" ry="3.6" />
+  <ellipse cx="12" cy="12" rx="9" ry="3.6" transform="rotate(60 12 12)" />
+  <ellipse cx="12" cy="12" rx="9" ry="3.6" transform="rotate(120 12 12)" />
+  <circle cx="12" cy="12" r="1.6" fill="#6366f1" stroke="none" />
 </svg>
