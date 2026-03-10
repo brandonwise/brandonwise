@@ -1,10 +1,10 @@
-# Brandon Wise
+# Hi, I'm Brandon 👋
 
-I build product systems that connect strategy to execution.
+I'm a Principal Product Manager and Architect with roots in technical operations and security. I work best close to systems, code, and the teams building both.
 
-I'm a Principal Product Manager and Architect with experience across security and technical operations. Most of my work sits where AI adoption, operational reliability, and business priorities overlap.
+Most of my work sits at the intersection of AI adoption, operational reliability, and business-critical execution. I'm usually pulled into the messy problems: the ones with unclear paths, tight timelines, and real consequences.
 
-I care about practical outcomes: clearer decisions, faster delivery, and systems teams can run with confidence. My focus areas include AI-enabled product workflows, platform and operations programs for business-critical initiatives, and PM frameworks that improve execution quality.
+I don't believe in heavyweight PRDs as the center of product work. I believe in building shared understanding through interactive experiences and working prototypes, then using that signal to make better decisions.
 
 ## Selected public work
 
@@ -14,4 +14,4 @@ I care about practical outcomes: clearer decisions, faster delivery, and systems
 - [pm-handbook](https://github.com/brandonwise/pm-handbook): practical PM templates and playbooks
 - [feed-cleaner](https://github.com/brandonwise/feed-cleaner): signal filtering for noisy social feeds
 
-Some of the largest programs I support are private. This profile focuses on the public work I can share.
+Some of the largest programs I support are private, so this profile focuses on public work I can share.
