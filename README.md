@@ -6,7 +6,7 @@ Most of my work sits at the intersection of AI adoption, operational reliability
 
 I don't believe in heavyweight PRDs as the center of product work. I believe in building shared understanding through interactive experiences and working prototypes, then using that signal to make better decisions.
 
-A quick note on public history: much of my earlier work lived in private company repos or restricted federal environments, so my public GitHub timeline is newer than the work itself. Across those roles, I was fortunate to be consistently recognized for innovation and customer impact. I'm now making more of my approach visible in the open.
+A quick note on public history: much of my earlier work lived in private company repos or restricted federal environments, so my public GitHub timeline is newer than the work itself. Innovation has been the throughline in that work, and I've been fortunate to receive annual recognition for it over the past decade. I'm now making more of my approach visible in the open.
 
 ## Selected public work
 
