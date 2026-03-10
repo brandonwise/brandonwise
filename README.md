@@ -1,4 +1,4 @@
-# Hi, I'm Brandon <img src="assets/network-icon.svg" alt="Network icon" width="18" />
+# Hi, I'm Brandon <img src="assets/atom-spin.svg" alt="Spinning atom icon" width="18" />
 
 I'm a Principal Product Manager and Architect with roots in technical operations and security. I work best close to systems, code, and the teams building both.
 
