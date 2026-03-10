@@ -2,7 +2,7 @@
 
 I'm a Principal Product Manager and Architect with roots in technical operations and security. I work best close to systems, code, and the teams building both.
 
-Most of my work sits at the intersection of AI adoption, operational reliability, and business-critical execution. I'm usually pulled into the messy problems: the ones with unclear paths, tight timelines, and real consequences.
+Most of my work sits at the intersection of AI adoption, operational reliability, and business-critical execution. At my best, I'm a force multiplier, pushing wherever the team needs momentum: design, engineering, research, or go-to-market.
 
 I don't believe in heavyweight PRDs as the center of product work. I believe in building shared understanding through interactive experiences and working prototypes, then using that signal to make better decisions.
 
