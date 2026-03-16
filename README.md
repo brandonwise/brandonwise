@@ -10,6 +10,7 @@ A quick note on public history: much of my earlier work lived in private company
 
 ## Selected public work
 
+- [agentwise](https://github.com/brandonwise/agentwise): security scanner for AI agents, MCP servers, and tool configurations
 - [humanizer](https://github.com/brandonwise/humanizer): detects AI writing patterns and helps rewrite text to sound human
 - [agent-release-gate](https://github.com/brandonwise/agent-release-gate): CI gate for AI agent quality and regressions
 - [mcp-trust-radar](https://github.com/brandonwise/mcp-trust-radar): trust scoring for MCP servers
